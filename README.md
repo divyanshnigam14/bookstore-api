@@ -1,4 +1,4 @@
-# bookstore-api# 📚 Bookstore API (Spring Boot)
+ 📚 Bookstore API (Spring Boot)
 
 ## 🚀 Overview
 
@@ -50,4 +50,4 @@ This is a RESTful API built using Spring Boot for managing books.
 
 ## 📌 Author
 
-Your Name
+Divyansh Nigam
