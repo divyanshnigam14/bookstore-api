@@ -1,4 +1,5 @@
  📚 Bookstore API (Spring Boot)
+“I developed a RESTful API using Spring Boot that performs CRUD operations on a bookstore database, with MySQL used for persistent storage. The API can be consumed by any frontend application.”
 
 ## 🚀 Overview
 
